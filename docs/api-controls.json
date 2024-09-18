@@ -2,6 +2,6 @@
     "status":"true",
     "message":"is running",
     "data":{
-        "pos-lite-old":"http://18.143.66.152:2006"
+        "pos-lite":"http://18.143.66.152:2006"
     }
 }
