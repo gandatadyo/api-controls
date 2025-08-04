@@ -3,6 +3,7 @@
     "message":"is running",
     "data":{
         "pos-lite":"http://47.129.222.1:2006",
-        "pos-lite-old":"http://18.143.66.152:2006"
+        "pos-lite-old":"http://18.143.66.152:2006",
+        "pos-lite-202508":"http://54.255.221.137:2006"
     }
 }
